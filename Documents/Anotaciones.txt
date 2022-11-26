@@ -1,0 +1,31 @@
+* Ver con el prof el tema de la base de datos 
+* Hacer el relevamiento para la empresa ferreteria
+    Modulos
+        Compras
+        Ventas
+        Almacenes
+    Referenciales
+        usuarios
+        perfiles
+        cargos
+        sucursales
+        categorias de mercaderias
+        
+
+
+
+
+
+* solo dos modulos
+
+
+
+
+
+//datos de postgres  
+pgadmin4 V 6.16 contraseña -> verrick
+postgres V15.1 instalacion contraseña -> verrick
+puerto en el que escucha -> 5432
+
+
+nombre de base de datos --> mysistem <--
