@@ -6,8 +6,20 @@
         Almacenes
     Referenciales
         usuarios
+            listar usuarios
+            agregar
+            editar
+            borrar
         perfiles
+            listar perfiles
+            agregar
+            editar
+            borrar
         cargos
+            listar cargos
+            agregar
+            editar
+            borrar
         sucursales
         categorias de mercaderias
         
